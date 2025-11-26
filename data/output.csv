@@ -1,0 +1,18 @@
+=== Pivot Table: Average Sales per Quarter per Product ===
+Quarter,Product_A,Product_B,Product_C,Product_D,Total_Average
+Q1,64.0,52.666666666666664,43.0,18.0,177.66666666666666
+Q2,83.0,43.666666666666664,44.333333333333336,23.0,194.0
+Q3,71.66666666666667,48.666666666666664,39.0,30.666666666666668,190.0
+Q4,74.66666666666667,61.0,35.666666666666664,32.333333333333336,203.66666666666669
+
+=== Pivot Table: Total Sales per Quarter ===
+Quarter,Total_Sales
+Q1,533
+Q2,582
+Q3,570
+Q4,611
+
+=== Summary Metrics ===
+Best Month: 2025-08-01
+Best Product: Product_A
+Best Quarter: Q4
